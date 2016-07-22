@@ -1,0 +1,14 @@
+.seeker-wrapper {
+    background-color: #00b3ee;
+    height: 60px;
+}
+.seeker-elapsed {
+    display: inline-block;
+    background-color: green;
+    height: 50px;
+}
+.seeker-pending {
+    display: inline-block;
+    background-color: red;
+    height: 50px;
+}
